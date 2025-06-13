@@ -1,4 +1,4 @@
-# 📄 Document Analytics Platform
+# 📄 Document Analytics Platform [Demo](https://document-analytics-platform.streamlit.app)
 
 An advanced document processing, analysis, and intelligence system built with Python and Streamlit. This platform combines cutting-edge AI technology with an intuitive interface to revolutionize document management workflows.
 
